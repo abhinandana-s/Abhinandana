@@ -1,175 +1,131 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E1B4B,50:312E81,75:4F46E5,100:6366F1&text=ABHINANDANA%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI)%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Practitioner&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E1B4B,50:312E81,75:4F46E5,100:6366F1&text=ABHINANDANA%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20Student%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+System+Design+%7C+AI%2FML+Development;Full-Stack+Web+Applications+%7C+REST+APIs+%7C+Databases;Data+Structures+%26+Algorithms+%7C+Problem+Solving;Building+Scalable+and+Production-Ready+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Full-Stack+Development+%7C+AI%2FML+Learning;Data+Structures+%26+Algorithms;Backend+Development+%7C+REST+APIs;Building+Projects+and+Solving+Problems"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinandana-s&style=for-the-badge&color=4F46E5)
-![GitHub Followers](https://img.shields.io/github/followers/abhinandana-s?style=for-the-badge&color=6366F1)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinandana-s\&style=for-the-badge\&color=4F46E5)
+![GitHub Followers](https://img.shields.io/github/followers/abhinandana-s?style=for-the-badge\&color=6366F1)
 
 </div>
 
 ---
 
-# PROFESSIONAL SUMMARY
+# 👋 About Me
 
-Computer Science Engineering (Artificial Intelligence) student focused on **software engineering, scalable web systems, and applied machine learning**.
+I'm **Abhinandana S**, a B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about software development, artificial intelligence, and problem solving.
 
-Strong interest in:
-- Full Stack Development (MERN Stack)
-- Backend Systems & REST APIs
-- Data Structures & Algorithms (DSA)
-- Machine Learning fundamentals
-- Building production-grade software systems
-
-Currently strengthening core engineering fundamentals with emphasis on **system design, clean architecture, and algorithmic problem solving**.
+I enjoy building web applications, learning modern technologies, solving coding problems, and exploring real-world applications of AI.
 
 ---
 
-# CORE COMPETENCIES (ATS KEYWORDS)
+# 🚀 Current Focus
 
-- Data Structures & Algorithms (Arrays, Trees, Graphs, Dynamic Programming)
-- Object-Oriented Programming (OOP)
-- RESTful API Development
-- Full Stack Web Development
-- Database Design & Management (SQL / NoSQL)
-- Authentication & Authorization Systems (JWT)
-- Basic Machine Learning & Data Processing
-- Version Control (Git, GitHub)
-- Responsive UI Development
-- Debugging & Performance Optimization
+* Data Structures & Algorithms
+* Full-Stack Web Development
+* Backend Engineering
+* Artificial Intelligence & Machine Learning
+* Open Source Contributions
+* Software Engineering Fundamentals
 
 ---
 
-# TECHNICAL SKILLS
+# 🏆 Achievements
+
+* Multiple-Time Scratch Programming Competition Winner
+* Selected for Little Kites State Level Camp
+* Built Robotics Projects using Python & Raspberry Pi
+* Conducted Coding Sessions for Junior Students
+* Taught Scratch Programming, Animation, and Basic Computer Skills
+* Recognized in School-Level Technical Competitions
+
+---
+
+# 💻 Technical Skills
 
 ## Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css"/>
 </p>
 
-## Frontend Engineering
+## Frontend Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 </p>
 
 ## Backend & Databases
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
 ## Tools & Platforms
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 </p>
 
 ---
 
-# PROJECTS (ENGINEERING FOCUSED)
+# 📂 Featured Projects
 
-<details>
-<summary><b>1. Portfolio Web Application (Personal Project)</b></summary>
+## Portfolio Website
 
-### Overview
-Responsive developer portfolio built to showcase projects, skills, and technical profile.
+Personal portfolio website showcasing projects, skills, and achievements.
 
-| Category | Details |
-|----------|--------|
-| Stack | HTML, CSS, JavaScript, React |
-| Focus | Frontend Architecture & UI/UX |
-| Features | Responsive Design, Clean UI |
-| Type | Static Web Application |
+**Tech Stack:** HTML, CSS, JavaScript, React
 
-**Key Contributions**
-- Designed modular UI structure
-- Implemented responsive layout system
-- Optimized performance for web deployment
+🔗 Add Project Repository Link
 
-</details>
+🔗 Add Live Demo Link
 
 ---
 
-<details>
-<summary><b>2. REST API Backend System (Learning Project)</b></summary>
+## REST API Backend Project
 
-### Overview
-Backend API system built for understanding server-side architecture and database integration.
+Backend application built for learning API development and database integration.
 
-| Category | Details |
-|----------|--------|
-| Stack | Node.js, Express.js, MongoDB |
-| Focus | Backend Development |
-| Features | CRUD APIs, Authentication |
-| Type | RESTful API Service |
+**Tech Stack:** Node.js, Express.js, MongoDB
 
-**Key Contributions**
-- Designed RESTful endpoints
-- Implemented authentication logic
-- Managed database schema design
-
-</details>
+🔗 Add Project Repository Link
 
 ---
 
-<details>
-<summary><b>3. Problem Solving & DSA Practice</b></summary>
+## DSA & Problem Solving
 
-### Overview
-Continuous problem solving practice focused on interview preparation and algorithmic thinking.
+Continuous practice focused on improving algorithmic thinking and coding efficiency.
 
-| Category | Details |
-|----------|--------|
-| Platform | LeetCode |
-| Focus | Algorithms & Data Structures |
-| Topics | Arrays, Strings, Trees, Recursion |
-| Goal | FAANG Interview Preparation |
+Platforms:
 
-**Key Contributions**
-- Strengthened algorithmic thinking
-- Practiced time complexity optimization
-- Improved coding efficiency
-
-</details>
+* LeetCode
+* HackerRank
 
 ---
 
-# EXPERIENCE
+# 📚 Education
 
-## Self-Driven Software Engineering Learning
-**2023 – Present**
+### B.Tech Computer Science & Engineering (Artificial Intelligence)
 
-Focused on structured learning of software engineering fundamentals and AI concepts.
+Malabar Institute of Technology (MIT), Kerala
 
-### Responsibilities
-- Building full-stack applications
-- Practicing DSA daily
-- Learning system design fundamentals
-- Exploring AI/ML concepts
-
-### Skills Developed
-`Problem Solving` `System Thinking` `Frontend Development` `Backend Development`
+2026 – 2030
 
 ---
 
-# EDUCATION
+# 📜 Certifications & Learning
 
-**B.Tech – Computer Science & Engineering (Artificial Intelligence)**  
-Malabar Institute of Technology, Kerala
-
----
-
-# CERTIFICATIONS & LEARNING
-
-- NPTEL Online Courses (Ongoing)
-- Web Development Projects
-- AI/ML Self Learning Path
-- DSA Practice (LeetCode)
+* NPTEL Courses (Ongoing)
+* Web Development Learning Path
+* AI & Machine Learning Fundamentals
+* DSA Practice and Competitive Programming
 
 ---
 
-# CODING PROFILES
+# 🌐 Coding Profiles
 
 <p align="center">
 
@@ -185,7 +141,7 @@ Malabar Institute of Technology, Kerala
 
 ---
 
-# GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -199,52 +155,44 @@ Malabar Institute of Technology, Kerala
 
 ---
 
-# SYSTEM DESIGN & ENGINEERING FOCUS
+# 🏅 GitHub Trophies
 
-Currently improving:
-- Scalable backend systems
-- API architecture design
-- Database optimization
-- Distributed system fundamentals
-- Low-level design (LLD)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhinandana-s&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-# CURRENT LEARNING ROADMAP
+# 📈 Contribution Graph
 
-```yaml
-Learning:
-  - Data Structures & Algorithms (Advanced)
-  - System Design Fundamentals
-  - Backend Engineering
-  - Machine Learning Basics
-
-Building:
-  - Full Stack Web Applications
-  - API-Based Systems
-  - Portfolio Projects
-
-Preparing_For:
-  - Software Engineering Internships
-  - Technical Interviews
-  - Open Source Contributions
-```
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandana-s&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# CONTACT
+# 🎯 2026 Goals
 
-- 📧 Email: **[mailto:abhi652008@gmail.com](mailto:abhi652008@gmail.com)**
-- 💼 LinkedIn: https://www.linkedin.com/in/abhinandana-susheel/
-- 🌐 Portfolio: https://portfolio-website-five-sable-54.vercel.app/
-- 🐙 GitHub: https://github.com/abhinandana-s
+* Build 10+ Quality Projects
+* Master Full-Stack Development
+* Strengthen DSA Skills
+* Contribute to Open Source
+* Learn AI/ML Development
+* Secure Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: [abhi652008@gmail.com](mailto:abhi652008@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/abhinandana-susheel/
+* 🌐 Portfolio: https://portfolio-website-five-sable-54.vercel.app/
+* 🐙 GitHub: https://github.com/abhinandana-s
 
 ---
 
-# FINAL STATEMENT
+# 💡 Motto
 
-> Focused on building strong fundamentals in software engineering, system design, and AI-driven applications with an emphasis on production-ready development practices.
-
----
+> Learn. Build. Improve. Repeat.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E1B4B,50:312E81,75:4F46E5,100:6366F1"/>
