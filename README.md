@@ -132,7 +132,7 @@ Malabar Institute of Technology (MIT), Kerala
 <a href="https://leetcode.com/abhinandana_s">
 <img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
-
+[![DevConnect](https://devconnectplatform.com/api/badge/abhi652008)](https://devconnectplatform.com/u/abhi652008)
 <a href="https://www.hackerrank.com/AbHi">
 <img src="https://img.shields.io/badge/HackerRank-Coding_Skills-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
